@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DanskeCurrencyArsKur": {
+      "commandName": "Project",
+      "commandLineArgs": "EUR/DKK 1"
+    }
+  }
+}
